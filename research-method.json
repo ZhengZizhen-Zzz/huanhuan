@@ -1,0 +1,26 @@
+{
+  "waves": [
+    {
+      "wave": 1,
+      "collected_date": "2026-10-02",
+      "detail_pages": 12,
+      "method": "登录浏览器读取公开展示的笔记正文与已加载评论；目的性定性抽样，非全站爬取。"
+    },
+    {
+      "wave": 2,
+      "collected_date": "2026-10-02",
+      "detail_pages": 15,
+      "method": "登录浏览器读取公开显示内容；目的性分组抽样。每组3篇新详情页，非全站爬取。"
+    },
+    {
+      "wave": 3,
+      "collected_date": "2026-10-02",
+      "detail_pages": 45,
+      "method": "通过已登录浏览器和站内搜索读取公开展示内容；9组目的性取样，每组5篇详情。未调用隐藏接口，未全站抓取。"
+    }
+  ],
+  "unique_detail_pages": 72,
+  "unit": "public note detail pages, not distinct users",
+  "sampling": "purposive qualitative sampling",
+  "effective_comment_sample_size": null
+}
