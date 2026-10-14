@@ -1,6 +1,6 @@
 # 产品方案
 
-[首页](README.md) · [用户研究](RESEARCH.md) · [PRD](PRD.md) · [验证计划](VALIDATION.md)
+[首页](README.md) · [用户研究](RESEARCH.md) · [竞品分析](COMPETITIVE-ANALYSIS.md) · [PRD](PRD.md) · [验证计划](VALIDATION.md)
 
 ## 1. 产品要解决什么
 
@@ -21,7 +21,7 @@
 
 ## 3. 用户原本怎么办
 
-这些是研究中出现或产品讨论中提出的替代方式，并非完整竞品实测。后续需补充具体产品的使用对照。
+以下是用户可采用的替代方式。已进一步核查 Eat Right Now、AteMate、Finch 与薄荷健康的公开功能和流程，见 [竞品分析](COMPETITIVE-ANALYSIS.md)。其中 Eat Right Now 已有即时练习，AteMate 已有餐前提问与快捷入口，因此缓缓以具体体验组合形成差异，不将“进食前帮助”视为独有能力。
 
 | 已有办法 | 适用之处 | 本项目关注的缺口 | 缓缓的方案假设 |
 | --- | --- | --- | --- |
